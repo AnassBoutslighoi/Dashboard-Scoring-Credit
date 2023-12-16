@@ -305,7 +305,7 @@ def main() :
         
       
     st.markdown('***')
-    st.markdown("Developed by Anass Boutslighoi. *Code from [Github](https://github.com/nalron/project_credit_scoring_model)* ❤️")
+    st.markdown("Developed by Anass Boutslighoi. *Code from [Github](https://github.com/AnassBoutslighoi/Dashboard-Scoring-Credit)* ❤️")
 
 
 if __name__ == '__main__':
