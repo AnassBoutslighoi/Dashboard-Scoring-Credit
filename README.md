@@ -90,7 +90,7 @@ The project uses data from the Kaggle dataset [Home Credit Default](https://www.
 
 ## Note
 
-This project was developed as an end-of-study project and was transferred from the original author to Eqdom.
+This project was developed as an end-of-study project.
 
 For more information about the project, you can refer to the Streamlit documentation [here](https://dashboard-scoring-credit-eqdom.streamlit.app/).
 
