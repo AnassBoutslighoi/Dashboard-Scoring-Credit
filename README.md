@@ -86,7 +86,7 @@ The project uses data from the Kaggle dataset [Home Credit Default](https://www.
 
 - **Author**: Anass Boutslighoi
 - **Dashboard Link**: [Dashboard Scoring Credit - Eqdom](https://dashboard-scoring-credit-eqdom.streamlit.app/)
-- **Github Link**: [Dashboard Scoring Credit - Eqdom]https://github.com/AnassBoutslighoi/Dashboard-Scoring-Credit/)
+- **Github Link**: [Dashboard Scoring Credit - Eqdom](https://github.com/AnassBoutslighoi/Dashboard-Scoring-Credit/)
 
 ## Note
 
