@@ -5,6 +5,7 @@
 ## Overview
 
 This project aims to develop a **credit scoring model to assess the probability of default payments by clients.** It's designed to support decision-making in granting or denying loans to potential clients. The code includes the implementation of a Streamlit dashboard for visualizing, interpreting, and comparing client credit scores and related information.
+
 **Web App from streamlit:** [Streamlit Share](https://dashboard-scoring-credit-eqdom.streamlit.app/)
 
 ### Description
@@ -31,9 +32,9 @@ To run this project locally, the following steps can be followed:
 1. **Installation**: Ensure Python and necessary libraries are installed. If you haven't installed **Python**, consider directly installing the **Anaconda distribution.**
 Anaconda is a Python distribution designed for Data Science.
 
-This allows the installation of Python and its Data Science libraries like Pandas, Matplotlib, Seaborn, Scipy, Numpy, etc...
-It also includes Jupyter notebook, which is essential and highly recommended!
-Get it here: [Anaconda](https://anaconda.org/).
+    This allows the installation of Python and its Data Science libraries like Pandas, Matplotlib, Seaborn, Scipy, Numpy, etc...
+    It also includes Jupyter notebook, which is essential and highly recommended!
+    Get it here: [Anaconda](https://anaconda.org/).
 
 2. **Dependencies Installation**:
 
